@@ -144,6 +144,9 @@ Companies like:
 All hire data analysts with healthcare
 domain knowledge!
 
+<img width="1918" height="840" alt="image" src="https://github.com/user-attachments/assets/8bb82c2f-5f4d-4eee-904a-d3110fe3d803" />
+
+
 ## My 28 Day Progress
 
 | Day | Topic | Status |
@@ -171,10 +174,10 @@ domain knowledge!
 | Day 21 | Digital Privacy Dashboard | ✅ Done |
 | Day 22 | Startup Validation | ✅ Done |
 | Day 23 | Customer & MVP Blueprint | ✅ Done |
-| Day 24 | [Topic] | ✅ Done |
-| Day 25 | [Topic] | ✅ Done |
-| Day 26 | Prior Auth Simulator | ✅ Done |
-| Day 27 | [Topic] | ✅ Done |
+| Day 24 | Business strategy report | ✅ Done |
+| Day 25 | AI Shark Tank Simulator | ✅ Done |
+| Day 26 | Prior Authorization Workflow Simulator | ✅ Done |
+| Day 27 | Prior Authorization Story Simulator | ✅ Done |
 | Day 28 | Hospital Admission Sim | ✅ Done |
 
 ## Conclusion
